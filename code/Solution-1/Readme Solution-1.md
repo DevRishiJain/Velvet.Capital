@@ -1,4 +1,4 @@
-Detailed explanation to both the codes:
+Detailed explanation to the codes:
 
 
 
